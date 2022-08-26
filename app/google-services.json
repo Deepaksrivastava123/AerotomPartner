@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "170807450621",
+    "project_id": "areotom-partner",
+    "storage_bucket": "areotom-partner.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170807450621:android:567e8f5420e1c7d4569794",
+        "android_client_info": {
+          "package_name": "com.aerotom.partner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170807450621-7s36ebuhfvn4asb38gp5el8tlvn49abt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aerotom.partner",
+            "certificate_hash": "3174d85591567c65090af87245af87a6ec1e8bfd"
+          }
+        },
+        {
+          "client_id": "170807450621-5k5drllfj53ao7dbpjtl056i05tr72c1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYQeG9Q8IUKg5pgtIspZdPMxfW0w8jxXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170807450621-5k5drllfj53ao7dbpjtl056i05tr72c1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
